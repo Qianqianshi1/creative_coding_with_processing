@@ -14,5 +14,5 @@ Run `Face/Face.pde`.
 *Keyboard operation*  
 `i: initial the system.`  
 `k: keep static.`  
-`r: rotate`
+`r: rotate`  
 `b: all point disappear immediately.`
